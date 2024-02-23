@@ -1,5 +1,5 @@
-# my windows learning
-all source what i learn in windows os 
+# Windows Learn
+all knowledge what i learn from windows os 
 
 ## Todo
 - 
